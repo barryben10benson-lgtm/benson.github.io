@@ -1,6 +1,6 @@
-# Benson Photography Website
+# Amore Benson Photography Website
 
-A modern, professional photography website for Benson Photography featuring family and wedding photoshoot services.
+A modern, professional photography website for Amore Benson Photography featuring family and wedding photoshoot services.
 
 ## Features
 
@@ -89,5 +89,5 @@ The contact form currently shows a success message. To actually send emails, you
 
 ## License
 
-© 2024 Benson Photography. All rights reserved.
+© 2024 Amore Benson Photography. All rights reserved.
 
